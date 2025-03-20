@@ -79,13 +79,13 @@ MCU Data Logger is a **hardware-based data logging system** designed to record a
 ```bash
 git clone https://github.com/VishwanathKambalyal/MCU-Data-Logger.git
 ```
-###2️⃣ Open Hardware Files in KiCad 9
+### 2️⃣ Open Hardware Files in KiCad 9
 Navigate to the Hardware folder.
 Open the schematic (.sch) and PCB (.kicad_pcb) files.
 
-###3️⃣ Customize & Manufacture
+### 3️⃣ Customize & Manufacture
 Modify the PCB design if required.
 Generate Gerber files for PCB fabrication.
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute it as needed.
