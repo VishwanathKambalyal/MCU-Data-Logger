@@ -1,6 +1,6 @@
 # 📌 MCU Data Logger
 
-![Project Banner](Images/3d mixed view.png)
+![Project Banner](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/3d%20mixed%20view.png)
 
 ## 📖 Overview
 
@@ -57,41 +57,19 @@ MCU Data Logger is a **hardware-based data logging system** designed to record a
 
 ### 🔹 Schematic Diagram
 
-<img src="Images/MCU_Data_Logger.svg" alt="Schematic Diagram" width="600"/>
+![Schematic Diagram](Images/schematic.png)
 
 ### 🔹 PCB Designs
 
-<table>
-  <tr>
-    <th>2-Layer PCB</th>
-    <th>4-Layer PCB</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Images/2_Layer_PCB.png" alt="2-Layer PCB" width="300"/>
-    </td>
-    <td align="center">
-      <img src="Images/4_Layer_PCB.png" alt="4-Layer PCB" width="300"/>
-    </td>
-  </tr>
-</table>
+| 2-Layer PCB                          | 4-Layer PCB                          |
+| ------------------------------------ | ------------------------------------ |
+| ![2-Layer PCB](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/2_Layer_PCB.png)  | ![4-Layer PCB]https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/4_Layer_PCB.png)  |
 
 ### 🔹 3D PCB Views
 
-<table>
-  <tr>
-    <th>Top View</th>
-    <th>Bottom View</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Images/3d Front view.png" alt="Top View" width="400"/>
-    </td>
-    <td align="center">
-      <img src="Images/3d bottom view.png" alt="Bottom View" width="400"/>
-    </td>
-  </tr>
-</table>
+| Top View                             | Bottom View                          |
+| ------------------------------------ | ------------------------------------ |
+| ![Top View](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/3d%20Front%20view.png)       | ![Bottom View](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/3d%20bottom%20view.png)  |
 
 ---
 
@@ -100,7 +78,7 @@ MCU Data Logger is a **hardware-based data logging system** designed to record a
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/VishwanathKambalyal/MCU-Data-Logger.git
-
+```
 ###2️⃣ Open Hardware Files in KiCad 9
 Navigate to the Hardware folder.
 Open the schematic (.sch) and PCB (.kicad_pcb) files.
