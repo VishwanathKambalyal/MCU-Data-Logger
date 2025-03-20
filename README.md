@@ -57,7 +57,7 @@ MCU Data Logger is a **hardware-based data logging system** designed to record a
 
 ### 🔹 Schematic Diagram
 
-![Schematic Diagram](Images/schematic.png)
+![Schematic Diagram]([Images/schematic.png](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/MCU_Data_Logger.svg))
 
 ### 🔹 PCB Designs
 
