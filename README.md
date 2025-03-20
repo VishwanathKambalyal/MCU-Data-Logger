@@ -63,7 +63,7 @@ MCU Data Logger is a **hardware-based data logging system** designed to record a
 
 | 2-Layer PCB                          | 4-Layer PCB                          |
 | ------------------------------------ | ------------------------------------ |
-| ![2-Layer PCB](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/2_Layer_PCB.png)  | ![4-Layer PCB]https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/4_Layer_PCB.png)  |
+| ![2-Layer PCB](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/2_Layer_PCB.png)  | ![4-Layer PCB](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/4_Layer_PCB.png)  |
 
 ### 🔹 3D PCB Views
 
