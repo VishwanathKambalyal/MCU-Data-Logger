@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-MCU Data Logger is a **hardware-based data logging system** designed to record and store data efficiently. The system is built using the **ATmega328P-AU microcontroller**, **24LC1025 EEPROM**, and **DS1337 RTC** for precise timekeeping. The hardware is designed in **KiCad 9**, with both **2-layer and 4-layer PCB** options.
+MCU Data Logger is a **hardware-based data logging system** designed to record and store data efficiently. The system is built using the **ATmega328P-AU microcontroller**, **24LC1025 EEPROM**, and **DS1337 RTC** for precise timekeeping. The hardware is designed in **KiCad 9**, with **2-layer PCB**.
 
 ### 🔹 Key Components
 
@@ -61,9 +61,7 @@ MCU Data Logger is a **hardware-based data logging system** designed to record a
 
 ### 🔹 PCB Designs
 
-| 2-Layer PCB                          | 4-Layer PCB                          |
-| ------------------------------------ | ------------------------------------ |
-| ![2-Layer PCB](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/2_Layer_PCB.png)  | ![4-Layer PCB](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/4_Layer_PCB.png)  |
+![2-Layer PCB](https://github.com/VishwanathKambalyal/MCU-Data-Logger/blob/main/images/2_Layer_PCB.png) 
 
 ### 🔹 3D PCB Views
 
