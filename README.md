@@ -49,7 +49,6 @@ MCU Data Logger is a **hardware-based data logging system** designed to record a
   - **I2C**: SDA, SCL
 - ✅ **Power Supply**: 5V
 - ✅ **GPIOs**: D2-D8 for peripheral connections
-- ✅ **Compact PCB Design**: 2-layer and 4-layer versions
 
 ---
 
